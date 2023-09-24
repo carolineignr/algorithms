@@ -1,0 +1,10 @@
+{
+  "name": "master-mind",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node masterMind.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
